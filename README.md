@@ -15,9 +15,11 @@ Palindrome-birthday
 
 ### What are we building?
 
-```jsx
+```
+jsx
 We are going to build a palindrome birthday checker that will also show the 
 nearest palindrome date and how many days missed.
+
 ```
 
 
@@ -87,8 +89,6 @@ Tip: Read about `[.toString()](https://developer.mozilla.org/en-US/docs/Web/Java
 // output: ['10092020', '09102020', '20200910', '091020', '100920', '200910']
 
 ```
-
-**[Solution](https://replit.com/@kushanksriraj/palindrome-bday-ex-4#script.js)**
 
 Tip: Read about `[slice()](https://javascript.info/array-methods#slice)` method.
 
